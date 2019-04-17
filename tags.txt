@@ -8,7 +8,7 @@
 [action]hide[/action]
 [action]ready[/action]
 [action]search[/action]
-[action]useanobject[/action]
+[action]use an object[/action]
 
 # Conditions
 [condition]blinded[/condition]
@@ -45,7 +45,7 @@ Intelligence:
 [skill]religion[/skill]
 
 Wisdom:
-[skill]animalhandling[/skill]
+[skill]animal handling[/skill]
 [skill]insight[/skill]
 [skill]medicine[/skill]
 [skill]perception[/skill]
