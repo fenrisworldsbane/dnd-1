@@ -1,6 +1,6 @@
 # Actions
 [action]attack[/action]
-[action]castaspell[/action]
+[action]cast a spell[/action]
 [action]dash[/action]
 [action]disengage[/action]
 [action]dodge[/action]
@@ -34,7 +34,7 @@ Strength:
 
 Dexterity:
 [skill]acrobatics[/skill]
-[skill]sleightofhand[/skill]
+[skill]sleight of hand[/skill]
 [skill]stealth[/skill]
 
 Intelligence:
