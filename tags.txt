@@ -1,0 +1,82 @@
+# Actions
+[action]attack[/action]
+[action]castaspell[/action]
+[action]dash[/action]
+[action]disengage[/action]
+[action]dodge[/action]
+[action]help[/action]
+[action]hide[/action]
+[action]ready[/action]
+[action]search[/action]
+[action]useanobject[/action]
+
+# Conditions
+[condition]blinded[/condition]
+[condition]charmed[/condition]
+[condition]deafened[/condition]
+[condition]exhaustion[/condition]
+[condition]frightened[/condition]
+[condition]grappled[/condition]
+[condition]incapacitated[/condition]
+[condition]invisible[/condition]
+[condition]paralyzed[/condition]
+[condition]petrified[/condition]
+[condition]poisoned[/condition]
+[condition]prone[/condition]
+[condition]restrained[/condition]
+[condition]stunned[/condition]
+[condition]unconscious[/condition]
+
+# Skills
+
+Strength:
+[skill]athletics[/skill]
+
+Dexterity:
+[skill]acrobatics[/skill]
+[skill]sleightofhand[/skill]
+[skill]stealth[/skill]
+
+Intelligence:
+[skill]arcana[/skill]
+[skill]history[/skill]
+[skill]investigation[/skill]
+[skill]nature[/skill]
+[skill]religion[/skill]
+
+Wisdom:
+[skill]animalhandling[/skill]
+[skill]insight[/skill]
+[skill]medicine[/skill]
+[skill]perception[/skill]
+[skill]survival[/skill]
+
+Charisma:
+[skill]deception[/skill]
+[skill]intimidation[/skill]
+[skill]performance[/skill]
+[skill]persuasion[/skill]
+
+# Senses:
+[sense]blindsight[/sense]
+[sense]darkvision[/sense]
+[sense]tremorsense[/sense]
+[sense]truesight[/sense]
+
+# Spells:
+[spell] [/spell]
+
+# Items
+[item] [/item]
+
+# Magic Item
+[magicitem] [/magicitem]
+
+# Weapon Properties:
+[wprop] [/wprop]
+
+# Dice
+[roll]1d20[/roll] # Straight Roll
+[roll]1d20+5[/roll] # Bonus
+[roll]4d6/2[/roll] # Resistance
+[roll]4d6*2[/roll] # Vulnerability
